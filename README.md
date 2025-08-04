@@ -1,39 +1,32 @@
-# GauRoza E-Commerce Web Application
+# GauRoza E-Commerce Web Application (Java + Thymeleaf)
 
-**GauRoza** is a full-stack e-commerce platform built for a modern fashion and lifestyle brand. The application features a complete shopping experience with customer and admin functionalities, all built with scalable and secure architecture.
+A **Full-Stack E-Commerce Web Application** for **GauRoza**, a modern fashion and lifestyle brand. This project is built using **Spring Boot**, **Thymeleaf**, and **MySQL**, following a clean, modular, and scalable architecture.
 
----
+## 🛍️ Features
 
-## 🛍️ Key Features
-
-- 🧑‍💼 **User Authentication** (Registration & Login)
-- 🛒 **Product Catalog** (Fashion & Lifestyle Categories)
-- 📦 **Shopping Cart & Checkout**
-- 📬 **Order Placement & Tracking**
-- ⚙️ **Admin Dashboard**
-  - Manage Products
+- 🔐 **User Authentication** (Login / Register)
+- 👗 **Product Catalog** with categories (Men, Women, Kids, etc.)
+- 🛒 **Add to Cart** & quantity update
+- 💳 **Checkout & Order Placement**
+- 🧾 **Order History & Invoice View**
+- 🛠️ **Admin Dashboard**
+  - Add / Update / Delete Products
   - Manage Orders
-  - Update Inventory
-- 🔒 **Secure APIs & Role-based Access**
+  - Track User Activities
+- 📦 **Secure Order Management**
+- 📈 **Responsive UI** built with **Bootstrap** and **Thymeleaf**
 
 ---
 
-## 💻 Tech Stack
+## 🧰 Tech Stack
 
-### 🖥️ Frontend
-- React.js
-- Tailwind CSS / Bootstrap
-- Axios
-- React Router DOM
-
-### 🧠 Backend
-- Spring Boot
-- Spring Security
-- Spring Data JPA
-- JWT Authentication
-- MySQL
+| Layer         | Technology        |
+|---------------|-------------------|
+| Frontend      | Thymeleaf, HTML5, CSS3, Bootstrap |
+| Backend       | Spring Boot, Spring MVC, Spring Security |
+| Database      | MySQL             |
+| Template Engine | Thymeleaf       |
+| Build Tool    | Maven             |
+| Version Control | Git & GitHub    |
 
 ---
-
-## 📂 Folder Structure
-
